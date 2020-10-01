@@ -20,7 +20,7 @@ After completing this project, you should be able to:
 ## Getting started 
 If you are unfamiliar with the game, I recommend you download the Wheel of Fortune game for [iOS](https://apps.apple.com/us/app/wheel-of-fortune-free-play-game-show-word-puzzles/id898040123) or [Android](https://play.google.com/store/apps/details?id=com.scopely.wheeloffortune&hl=en_IN) and play a few rounds.
 
-Visit [this page]() to create and obtain access to a private git repository containing the starter code for the project. After the repository is created, you should clone your repository on a birds server.
+Visit [this page](https://classroom.github.com/g/nwKA8Xs6) to create and obtain access to a private git repository containing the starter code for the project. After the repository is created, you should clone your repository on a birds server.
 
 The code you need to write for this lab will be added to the `wheel.c` file included in your repository. When you want to compile your code, run the command
 ```bash

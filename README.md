@@ -121,13 +121,6 @@ If your program crashes (e.g., with a segmentation fault), then run your program
 
 If your program still doesn't work as expected after you have fixed all compiler warnings and memory errors, then add `printf` statements in strategic locations to help you understand what your program is doing.
 
-## Challenge problem
-Challenge problems in projects are an opportunity to earn a small amount of extra credit toward your grade for _this_ project.
-
-The challenge problem for this project is to add support for two additional operators:
-* `-` --- subtraction (see _Dive Into Systems_ [Section 4.4.2](https://diveintosystems.org/antora/diveintosystems/1.0/Binary/arithmetic_subtraction.html)
-* `^` --- bitwise xor (see _Dive Into Systems_ [Section 4.6.3](https://diveintosystems.org/antora/diveintosystems/1.0/Binary/bitwise.html#_bitwise_xor_exclusive_of)
-
 ## Submission instructions
 You should **commit and push** your updated `wheel.c` file to your git repository. However, as noted above, do not wait until your entire program is working before you commit it to your git repository; you should commit your code each time you write and debug a piece of functionality. You should visit the GitHub page for your repository and view the log and the `wheel.c` file to confirm you have correctly committed and pushed your changes.
 
